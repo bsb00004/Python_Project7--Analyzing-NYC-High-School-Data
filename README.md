@@ -230,5 +230,5 @@ It makes sense that the number of students at a school who took AP exams would b
 
 __Calculate the percentage of students in each school that took an AP exam.__
 __Divide the AP Test Takers column by the total_enrollment column.__
-__Note: The column name AP Test Takers has a space at the end.__
 
+__Note: The column name AP Test Takers has a space at the end.__
