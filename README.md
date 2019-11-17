@@ -26,6 +26,8 @@ All of these data sets are interrelated. We'll need to combine them into a singl
 
 Before we move into coding, we'll need to do some background research. A thorough understanding of the data will help us avoid costly mistakes, such as thinking that a column represents something other than what it does. Background research will also give us a better understanding of how to combine and analyze the data.
 
+__Note: The code is well commented.__
+
 In this case, we'll want to research:
 
 - [New York City](https://en.wikipedia.org/wiki/New_York_City)
